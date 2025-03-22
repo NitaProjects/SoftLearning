@@ -4,10 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.mockito.internal.matchers.Null;
-
 import demo.exceptions.BuildException;
-import demo.model.products.PhysicalData;
 
 public class ClientTest {
    private Client client;

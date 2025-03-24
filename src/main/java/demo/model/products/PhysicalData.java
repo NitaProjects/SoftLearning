@@ -3,7 +3,7 @@ package demo.model.products;
 import demo.exceptions.BuildException;
 import demo.model.operations.checker;
 
-public class PhysicalData {
+public class PhysicalData {  
     protected double ancho;
     protected double largo;
     protected double alto;

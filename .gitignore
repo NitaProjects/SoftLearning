@@ -1,0 +1,27 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Ignore logs, temp files, etc
+*.log
+*.tmp
+
+# Ignore IntelliJ
+.idea/
+*.iml
+out/
